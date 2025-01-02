@@ -9,6 +9,8 @@ Pour installer Apache 2 sur une machine Linux :
 1. sudo apt update
 2.  sudo apt install apache2
 
+3.  ![apache2](https://github.com/user-attachments/assets/7a6c1540-c0cb-48ef-95bb-09f10fd5b532)
+
 une fois l'installation est finie et 
 pour acceder a la configure de logging pour enregistrer les accès et les erreurs 
 et pour cela il faux tapper :
